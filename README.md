@@ -1,3 +1,3 @@
-![CI](https://github.com/freelandos/AHJ-HW-4_Credit_Card_Validator/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/selivados/AHJ-HW-4_Credit_Card_Validator/actions/workflows/web.yml/badge.svg)
 
-[GitHub Pages](https://freelandos.github.io/AHJ-HW-4_Credit_Card_Validator/)
+[GitHub Pages](https://selivados.github.io/AHJ-HW-4_Credit_Card_Validator/)
